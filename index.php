@@ -82,9 +82,9 @@
                 <div class="col-lg-12">
                     <img class="img-responsive" src="img/logo.png" alt="">
                     <div class="intro-text">
-                        <span class="name">Benvenido</span>
+                        <span class="name">Bienvenido</span>
                         <hr class="star-light">
-                        <span class="skills">Grupo de usuarios Bitcoin en Cancun</span>
+                        <span class="skills">Cominidad de usuarios Bitcoin y DASH en Cancun</span>
                     </div>
                 </div>
             </div>
